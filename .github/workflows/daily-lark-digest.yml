@@ -16,7 +16,7 @@ concurrency:
 jobs:
   push:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -26,13 +26,29 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Push digest to Lark
+      - name: Install deps
+        run: pip install --quiet anthropic
+
+      - name: Push ecom-focused digest (Claude)
+        env:
+          LARK_WEBHOOK: ${{ secrets.LARK_WEBHOOK }}
+          LARK_WEBHOOK_SECRET: ${{ secrets.LARK_WEBHOOK_SECRET }}
+          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+          ANTHROPIC_AUTH_TOKEN: ${{ secrets.ANTHROPIC_AUTH_TOKEN }}
+        run: |
+          if [ -z "${LARK_WEBHOOK}" ]; then
+            echo "::error::LARK_WEBHOOK secret is not set." >&2
+            exit 1
+          fi
+          if [ -z "${ANTHROPIC_AUTH_TOKEN}" ]; then
+            echo "::warning::ANTHROPIC_AUTH_TOKEN not set; skipping ecom digest."
+          else
+            python scripts/push_ecom_digest_to_lark.py --data data/latest-24h.json
+          fi
+
+      - name: Push general AI digest
         env:
           LARK_WEBHOOK: ${{ secrets.LARK_WEBHOOK }}
           LARK_WEBHOOK_SECRET: ${{ secrets.LARK_WEBHOOK_SECRET }}
         run: |
-          if [ -z "${LARK_WEBHOOK}" ]; then
-            echo "::error::LARK_WEBHOOK secret is not set. Skipping push." >&2
-            exit 1
-          fi
           python scripts/push_to_lark.py --data data/latest-24h.json --limit 15
