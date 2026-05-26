@@ -1,0 +1,38 @@
+name: Daily Lark Digest
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 00:00 UTC = 08:00 Beijing time
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-lark-digest
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Push digest to Lark
+        env:
+          LARK_WEBHOOK: ${{ secrets.LARK_WEBHOOK }}
+          LARK_WEBHOOK_SECRET: ${{ secrets.LARK_WEBHOOK_SECRET }}
+        run: |
+          if [ -z "${LARK_WEBHOOK}" ]; then
+            echo "::error::LARK_WEBHOOK secret is not set. Skipping push." >&2
+            exit 1
+          fi
+          python scripts/push_to_lark.py --data data/latest-24h.json --limit 15
