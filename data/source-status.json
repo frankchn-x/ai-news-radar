@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-02T05:08:10.079302Z",
+  "generated_at": "2026-06-02T09:45:57.817440Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 208,
-      "duration_ms": 9258,
+      "item_count": 209,
+      "duration_ms": 13684,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 261,
+      "duration_ms": 488,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 24,
-      "duration_ms": 339,
+      "item_count": 31,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 467,
+      "duration_ms": 409,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 420,
+      "duration_ms": 289,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 433,
-      "duration_ms": 12318,
+      "item_count": 460,
+      "duration_ms": 13582,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1710,
+      "duration_ms": 2571,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3048,
-      "duration_ms": 1533,
+      "duration_ms": 1805,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 556,
+      "item_count": 69,
+      "duration_ms": 507,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 312,
+      "duration_ms": 171,
       "error": null
     },
     {
@@ -86,15 +86,15 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1040,
+      "duration_ms": 1082,
       "error": null
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 1117,
+      "item_count": 49,
+      "duration_ms": 2370,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 147,
-      "duration_ms": 401,
+      "duration_ms": 428,
       "error": null
     },
     {
@@ -110,8 +110,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 0,
-      "item_count": 2110,
-      "duration_ms": 5731,
+      "item_count": 2111,
+      "duration_ms": 17283,
       "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -124,9 +124,9 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 7286,
-  "items_before_topic_filter": 5835,
-  "items_in_24h": 754,
+  "fetched_raw_items": 7313,
+  "items_before_topic_filter": 5786,
+  "items_in_24h": 771,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -146,7 +146,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 207,
+        "duration_ms": 12563,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -161,7 +161,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 397,
+        "duration_ms": 273,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -176,7 +176,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 789,
-        "duration_ms": 576,
+        "duration_ms": 233,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -191,7 +191,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1511,
+        "duration_ms": 1437,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -206,7 +206,7 @@
         "effective_feed_url": "https://blogs.microsoft.com/ai/feed/",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 186,
+        "duration_ms": 175,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -221,7 +221,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 690,
+        "duration_ms": 859,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -235,8 +235,8 @@
         "feed_url": "https://openai.com/news/rss.xml",
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
-        "item_count": 981,
-        "duration_ms": 1072,
+        "item_count": 982,
+        "duration_ms": 686,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -251,7 +251,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 167,
+        "duration_ms": 319,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -266,7 +266,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 304,
+        "duration_ms": 236,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -281,7 +281,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 621,
+        "duration_ms": 502,
         "error": null,
         "skipped": false,
         "skip_reason": null,
