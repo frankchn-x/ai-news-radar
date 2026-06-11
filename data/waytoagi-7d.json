@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-06-11T18:41:53.713039Z",
+  "generated_at": "2026-06-11T21:13:55.309736Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-11",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -28,11 +33,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-06-11",
       "title": "热门记忆插件claude-mem可以给Claude Code加持永久记忆。作者深挖了背后的运行逻辑后，搭建出一个独立的共享记忆底座，成功打通Claude Code、Hermes、Codex三端数据。借助统一数据库采集操作日志，通过多层过滤剔除无效信息，再结合分级审核沉淀长效知识，搭配检索功能快速调取内容。文中附有完整架构、代码与分步落地流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-11",
+      "title": "模型越强，很多人反而更懵：到底该怎么写Prompt，才能把它用满？结合一份社区整理的 Fable 5 系统提示词，以及 Anthropic 官方文档的指引，作者这篇文章带大家一起探究下普通人怎么改 Prompt，让 Claude Code/Claude 聊天都更听话。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
