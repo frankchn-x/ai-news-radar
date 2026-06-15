@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-06-15T19:04:05.691047Z",
+  "generated_at": "2026-06-15T21:59:29.049041Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-15",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
+    {
+      "date": "2026-06-15",
+      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-15",
       "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
@@ -23,8 +28,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-06-15",
+      "title": "这篇访谈带大家厘清了当下火热的Agent循环误区，把 human-in-the-loop 、 agentic loop 和 代码评审 loop 拆成三种不同工作法。工程师、PM、独立开发者看完以后，能立刻判断自己该在哪一步把手伸回方向盘。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-06-15",
       "title": "本周AI音乐行业动态与前沿论文覆盖版权博弈、创作工具、平台治理多条主线。谷歌凭借平台用户条款抗辩音乐AI侵权，华纳收购指纹企业抢占AI版税分配标准；Fender、Suno、Loudly等更新分轨、AI母带功能，索尼推出本地实时即兴伴奏，Deezer上线检测工具整治泛滥AI曲目。文中还收录了多篇音频生成、乐谱建模相关论文。",
