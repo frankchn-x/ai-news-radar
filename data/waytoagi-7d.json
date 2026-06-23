@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-06-23T17:01:02.811911Z",
+  "generated_at": "2026-06-23T19:23:15.688236Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-06-23",
-  "count_today": 6,
+  "count_today": 7,
   "updates_today": [
     {
       "date": "2026-06-23",
       "title": "经常用Codex生成图片的人或许常常会遇到版本混乱、修改指令模糊的问题，作者自研并开源了一个本地插件Prompt Canvas。工具采用SQLite本地存储，可以更直观地留存所有迭代版本，而且支持画布可视化批注，自动生成带坐标的结构化修改文档。文中有完整安装流程，快来上手搭建一个可完整回溯、稳定高效的AI做图工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "火山引擎Force原动力大会发布了全系列多模态模型，覆盖文本、视频、图像、语音四大赛道，还上线了官方IP二创版权平台。Doubao-Seed-2.1 Pro实现生产级能力，支持超长视频解析、五百级多智能体协同，调用成本远低于海外大模型；Seedance 2.5支持30秒长叙事、3D白模预演与多语言局部改片；Seedream 5.0 Pro自带分层拆解、复杂图文排版能力，图像视频模型可联动创作；全新音频模型能多角色带环境音完整演绎剧情。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -38,11 +43,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-06-23",
       "title": "经常用Codex生成图片的人或许常常会遇到版本混乱、修改指令模糊的问题，作者自研并开源了一个本地插件Prompt Canvas。工具采用SQLite本地存储，可以更直观地留存所有迭代版本，而且支持画布可视化批注，自动生成带坐标的结构化修改文档。文中有完整安装流程，快来上手搭建一个可完整回溯、稳定高效的AI做图工具。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "火山引擎Force原动力大会发布了全系列多模态模型，覆盖文本、视频、图像、语音四大赛道，还上线了官方IP二创版权平台。Doubao-Seed-2.1 Pro实现生产级能力，支持超长视频解析、五百级多智能体协同，调用成本远低于海外大模型；Seedance 2.5支持30秒长叙事、3D白模预演与多语言局部改片；Seedream 5.0 Pro自带分层拆解、复杂图文排版能力，图像视频模型可联动创作；全新音频模型能多角色带环境音完整演绎剧情。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
