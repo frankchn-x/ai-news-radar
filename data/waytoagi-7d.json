@@ -1,15 +1,20 @@
 {
-  "generated_at": "2026-07-09T17:13:10.396120Z",
+  "generated_at": "2026-07-09T19:05:52.965859Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-09",
-  "count_today": 5,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-07-09",
       "title": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -33,11 +38,16 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-07-09",
       "title": "家里有中小学孩子、常常要做教辅可视化的家长与老师，这套开源教学Skill可以帮到你们。输入知识点即可自动匹配年级学科，一键生成静态知识图解，覆盖文理多学科；配套动画生成工具还可以生成带配音讲解的教学短片。除此之外，其中还内置了勘误机制来修正知识漏洞，快来上手试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-07-09",
+      "title": "作者最近又在GitHub翻到几个挺有意思的AI项目，汇总到了这篇文章里。每个项目都简单介绍了一下它是干嘛的、适合谁、值得看的一点。感兴趣的小伙伴可以先收藏，后面真用到的时候再慢慢折腾。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
