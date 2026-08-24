@@ -1,12 +1,222 @@
 {
-  "generated_at": "2026-08-24T09:37:24.410204Z",
+  "generated_at": "2026-08-24T17:55:06.104129Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-  "history_url": null,
+  "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "count_7d": 0,
-  "updates_7d": [],
-  "warning": "WaytoAGI 近7日更新抓取失败",
-  "has_error": true,
-  "error": "Expecting value: line 1 column 1 (char 0)"
+  "latest_date": "2026-08-24",
+  "count_today": 5,
+  "updates_today": [
+    {
+      "date": "2026-08-24",
+      "title": "很多做小红书/小绿书图文的人，最耗时间的往往不是写内容，而是排版、配图、改字、对齐，还要保持自己的IP风格稳定。阿真这篇把“小红书图文自动排版 Skill”的搭建流程拆解了下，后面只要丢文章或飞书链接，就能自动拆页、渲染、导出2K图片。内容创作者们可以上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "小歪用Seedance 2.0 fast、MiniMax H3、Wan 3.0跑了7组真实案例：晨起Vlog、古装微表情、豪门短剧、情侣对峙、女团舞、四人运镜、史前灾难片。不只是单纯地看画质，还对比了短剧节奏、人物表情、动作卡点、多人物稳定性、大场景融合度，以及API和本地部署怎么选。来看看最近更新的这几个视频模型，哪个更适合你？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "出门还得背电脑，或者让笔记本在家常亮，其实很别扭。更理想的状态是：家里的Mac mini当主脑，MacBook负责深度创作和开发，iPhone 变成随时下指令的遥控器。这篇文章作者把完整的配置过程写了出来，包括踩过的每一个坑。步骤会写得很细，新手照着做就能跑通。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Fish Audio联合创始人Rissa、Trans-N 创始人Harry，以及来自Plug and Play Japan的投资人 Rebecca。三位分别代表了 AI 语音平台、企业级 Agent 产品、国际投资机构的本地分支三种视角。这次沙龙的话题从为什么选择日本市场、如何进入市场、护城河在哪里来切入，一起看看他们具体都聊了什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    }
+  ],
+  "count_7d": 36,
+  "updates_7d": [
+    {
+      "date": "2026-08-24",
+      "title": "很多做小红书/小绿书图文的人，最耗时间的往往不是写内容，而是排版、配图、改字、对齐，还要保持自己的IP风格稳定。阿真这篇把“小红书图文自动排版 Skill”的搭建流程拆解了下，后面只要丢文章或飞书链接，就能自动拆页、渲染、导出2K图片。内容创作者们可以上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "小歪用Seedance 2.0 fast、MiniMax H3、Wan 3.0跑了7组真实案例：晨起Vlog、古装微表情、豪门短剧、情侣对峙、女团舞、四人运镜、史前灾难片。不只是单纯地看画质，还对比了短剧节奏、人物表情、动作卡点、多人物稳定性、大场景融合度，以及API和本地部署怎么选。来看看最近更新的这几个视频模型，哪个更适合你？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "出门还得背电脑，或者让笔记本在家常亮，其实很别扭。更理想的状态是：家里的Mac mini当主脑，MacBook负责深度创作和开发，iPhone 变成随时下指令的遥控器。这篇文章作者把完整的配置过程写了出来，包括踩过的每一个坑。步骤会写得很细，新手照着做就能跑通。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "Fish Audio联合创始人Rissa、Trans-N 创始人Harry，以及来自Plug and Play Japan的投资人 Rebecca。三位分别代表了 AI 语音平台、企业级 Agent 产品、国际投资机构的本地分支三种视角。这次沙龙的话题从为什么选择日本市场、如何进入市场、护城河在哪里来切入，一起看看他们具体都聊了什么？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-24",
+      "title": "AI 音乐这周最值得盯的，已经从“谁的生成效果更像歌”，走到了版权、分发、标识、生产工具一起重构。环球音乐推出单曲级二创权限、输出 AI 专利，Apple Music 即将增设 AI 生成音乐标签，行业版权规范正在加速成型。多款实用创作工具迎来重磅更新，覆盖 DAW 插件、音频转 MIDI、离线歌单、开源歌唱合成。还有五篇前沿论文覆盖模型评估、唱跳视频、符号音乐分词等方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "这篇文章是作者亲手做了一个插件并发布到GitHub的完整复盘：从 5 分钟跑通第一个插件，到踩过的两个真实的坑，到配置化、打包、发布。全程实操，命令可复制。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "第一次打开 Codex，真正容易卡住的是眼前这些区域分别管什么：项目和任务有什么区别，Local、Worktree、Cloud 该选哪个，Plan 是不是必须开，权限应该给到哪里，Plugins、Skills、MCP 又为什么同时存在。作者这篇教程就从这些基础问题讲起，先把界面、按钮、工作区和常用能力认清，再判断哪些扩展功能值得接入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "本周精选的10篇AI论文转向“运行框架、Skill、记忆、自我改进和成本控制到底靠不靠谱”。Agent Lightning和ClawGym讲怎么在真实框架里训练Agent；Skill Trigger Bottleneck、Demystifying Agent Skills讲Skill太多后怎么触发、怎么写才有用；Harness-Level Forgetting和Fragile Self-Improvement则提醒大家，自我改进很容易变成过拟合和遗忘。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "很多人看到Claude Code的第一反应是：这不是写代码的吗？终端、命令、插件一堆，小白很容易还没开始就被劝退。这篇文章是一个营销人173天的实操复盘，把Claude Code拆成了普通人也能上手的工作系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "很多人生图一翻车，就开始疯狂加风格词、镜头词、材质词，提示词越写越长，结果主体还是歪、文字还是乱。作者从第一性原理出发，带你看懂生图提示词究竟该怎么写？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Codex 的斜杠命令相当于它的“控制面板”：提示词负责描述你想完成什么，斜杠命令负责控制 Codex 如何工作。作者这篇文章详细拆解了Codex CLI当前内置的全部斜杠命令，并补充了IDE扩展与桌面端特有命令。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "很多人改AI生成的文案，第一反应是删“首先其次”、加点口语、把检测分降下去。但所谓AI味，本质上是“均值味”——选词太稳、节奏太平、结构太顺、口癖太像模型。作者这篇文章深度拆解了AI文本检测的底层逻辑，提出了一个跨四层的“结构化离群”统一框架，或许可以帮到你！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Minke v0.2.0基于DeepSeek Harness的架构，借助Cordis插件树做扩展，实现了移动端远程控制本地Agent主机。它不走传统画面投屏，只同步任务、文件、终端状态，项目与运行环境依旧留存于本地电脑。一起来看看具体的开发细节！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "这份AI硬件上市合规指南拆解了国内、欧盟、美国三大主流市场的准入规则，覆盖无线、电池安全、数据隐私、AI监管等各类风险点。结合硬件功能、销售地域给出判定逻辑，搭配真实产品案例、研发各阶段时间线、申请材料清单与高频踩坑误区。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "臧师傅的PPT Skill上线了演讲者视图，无需插件，按下P键即可开启双窗口模式。AI自动生成每页口述备注，把大纲要点、案例、转场单独留存，不会污染演示页面。除此之外，还自带计时与排练统计，可以快速定位超时页面。同时还具备屏幕同步校验、黑屏冻结、激光笔标记等功能，可以有效规避线下分享的临场失误。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "很多人把Agent的成败全部押在模型能力上，真正的瓶颈其实在harness。这份实战指南从工具定义、提示词架构、双层记忆、编排策略到人机回环给出了一套可落地的设计范式。可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "吴恩达梳理出一个搭建生产级AI应用的核心能力框架。从大模型底层原理、数据上下文供给、智能体系统设计，到评估驱动开发、线上运维、机器学习基础都给出了完整指引。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "卡兹克筛选了12个实战提示词，覆盖提问、高效学习、难题拆解、理性决策、自我洞察五大场景，包含苏格拉底问诊、双层学习解释、横纵分析、专家会诊、双向钢人论证、天赋挖掘、人生设计等模板。能够帮你辨别信息幻觉，推演多元方案，完成深度的自我梳理，快速拉高日常和工作里的AI协作质量。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "全新的多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 上线 DeepSeek API 平台！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Linkloud 在东京沙龙的这场对话涵盖了五个层层递进的问题：过去一年 AI 真正跨过了什么门槛、日本企业的态度如何转变、中国开源模型的接受度、PoC 到规模化落地之间的鸿沟在哪里、企业最终在为什么买单？一起来看看具体都输出了哪些见解！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "如果你经常刷完信息更焦虑，也说不清自己到底获得了什么，这篇很适合你看。Dan Koe把“被操控”拆成三个思维层级：NPC只会按脚本反应，主角开始质疑和选择，程序员能观察自己的思考，并主动切换视角。或许能帮你把注意力从反应模式里拽回来，重新变成自己的操作系统。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "MiniMax Design发布，是一款把多模态模型能力变成真实可用的生产力的Harness。H3负责提供视频理解、生成、编辑和参考控制能力，MiniMax Design则把这些能力组织成可执行的创作链路，尤其适合视频编辑、商业内容生产这类既要理解素材、又要精准修改和交付的场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Dalton Caldwell 和 Michael Seibel 都做过消费互联网公司，也在 Y Combinator 看过上千个创业项目。这次两人讨论了一个更难的问题：今天的消费级 AI 创业者，去哪里找值得做很多年的点子？一起来看看他们的见解！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "这期播客集合了多位硅谷从业者的实战经验，揭开了拉开AI产出差距的真正根源。这些人的工具清单并不神秘，区别在于使用方式。一起来看看他们都是怎么使用的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "最近作者写了不少关于独立开发的思考，想着要汇总一下，就把他的一款产品从开源CLI做到Mac付费软件这一路聊一聊：他当时是怎么想的，哪些事情做下来真的有用，也许能给正在做自己作品的朋友一些输入。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "拥有二十年游戏行业经验的猫叔，结合自身实战的判断力与AI的体系化知识，开源了一个五十多万字的RPG设计宝典。内容覆盖从立项到上线完整环节，还有问题急救附录与AI辅助生产的落地方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "很多人本地部署了DeepSeek harness，能力还没有体验，就发现连文件都不能上传给AI分析，生成的文件还需要下载到本地预览。作者整理了7个DeepSeek harness必装的插件，可以让你的使用体感翻倍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-19",
+      "title": "从梳理需求、产出开发文档、统一视觉，到AI生成代码、素材托管、真机调试，再搞定类目审核卡点完成上线。梦飞把整个小程序的流程都从头走了一遍，还复盘了一些实操过程中的踩坑经验。普通人可以照搬这套思路，快速把想法变成可上线的小程序产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    }
+  ],
+  "warning": null,
+  "has_error": false,
+  "error": null
 }
